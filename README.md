@@ -28,7 +28,7 @@ The dashboard covers sales performance, profitability, regional analysis, and KP
 **Key Insights:**
 - Provided a high-level snapshot of overall business performance using key metrics such as Total Sales, Total Profit, Orders, and Customers.
 - Enabled quick decision-making through consolidated KPIs in a single dashboard view.
-- Added interactive slicers (Year, Region, Category) for flexible analysis.
+- Added interactive slicers (Year, Region, Category) to allow flexible business analysis.
 
 ---
 
@@ -36,9 +36,9 @@ The dashboard covers sales performance, profitability, regional analysis, and KP
 ![Sales Profit Trend](screenshots/03_Sales_Profit_Trend.png)
 
 **Key Insights:**
-- Analyzed year-wise sales and profit trends to identify growth patterns.
-- Compared Actual Sales vs Target Sales to evaluate performance.
-- Highlighted periods of strong and weak performance.
+- Analyzed year-wise sales and profit trends to identify growth patterns and performance consistency.
+- Compared Actual Sales vs Target Sales to highlight gaps and achievement levels.
+- Identified periods of strong performance and areas needing improvement.
 
 ---
 
@@ -46,9 +46,9 @@ The dashboard covers sales performance, profitability, regional analysis, and KP
 ![Regional Sales Analysis](screenshots/04_Regional_Sales_Analysis.png)
 
 **Key Insights:**
-- Identified top-performing regions and states by sales contribution.
-- Highlighted geographical sales concentration.
-- Enabled regional comparison and drill-down analysis.
+- Identified top-performing regions and states based on total sales contribution.
+- Highlighted geographical sales concentration to support regional strategy planning.
+- Enabled drill-down analysis to compare regional performance effectively.
 
 ---
 
@@ -56,9 +56,9 @@ The dashboard covers sales performance, profitability, regional analysis, and KP
 ![KPI Performance Summary](screenshots/05_KPI_Performance_Summary.png)
 
 **Key Insights:**
-- Tracked KPIs such as Profit Margin %, Sales vs Target, and Category contribution.
-- Used conditional formatting to identify performance gaps.
-- Supported management-level decision-making.
+- Monitored critical KPIs such as Profit Margin %, Sales vs Target, and Category-wise contribution.
+- Applied conditional formatting to quickly highlight underperforming and high-performing areas.
+- Supported management-level performance tracking with visually intuitive indicators.
 
 ---
 
