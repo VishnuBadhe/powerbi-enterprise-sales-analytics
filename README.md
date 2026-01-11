@@ -28,7 +28,7 @@ The dashboard covers sales performance, profitability, regional analysis, and KP
 **Key Insights:**
 - Provided a high-level snapshot of overall business performance using key metrics such as Total Sales, Total Profit, Orders, and Customers.
 - Enabled quick decision-making through consolidated KPIs in a single dashboard view.
-- Added interactive slicers for flexible analysis.
+- Added interactive slicers (Year, Region, Category) for flexible analysis.
 
 ---
 
