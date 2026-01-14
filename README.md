@@ -1,14 +1,18 @@
 # Enterprise Sales Analytics & BI Reporting (Power BI)
 
-## Project Overview
-This project focuses on analyzing enterprise sales data using Power BI to provide actionable business insights.  
-The dashboard covers sales performance, profitability, regional analysis, and KPI tracking.
+## 📌 Project Overview
+This project focuses on analyzing enterprise sales data using Power BI to deliver actionable business insights.  
+The dashboard provides a comprehensive view of sales performance, profitability, regional trends, and KPI tracking to support data-driven decision-making.
 
-## Tools & Technologies
+The project demonstrates an end-to-end Business Intelligence workflow, from data modeling to interactive dashboard storytelling.
+
+---
+
+## 🛠️ Tools & Technologies
 - Power BI (DAX, Power Query)
-- SQL (Data Analysis)
-- Excel
-- Data Modeling
+- SQL (Data Preparation & Validation)
+- Microsoft Excel
+- Data Modeling (Star Schema)
 
 ---
 
@@ -16,8 +20,8 @@ The dashboard covers sales performance, profitability, regional analysis, and KP
 ![Data Model](screenshots/01_Data_Model.png)
 
 **Key Insights:**
-- Designed a structured star-schema style data model with fact and dimension tables to support scalable reporting.
-- Established clear relationships between Orders, Customers, Products, Regions, and Dates to ensure accurate aggregations.
+- Designed a structured star-schema style data model using fact and dimension tables to support scalable reporting.
+- Established clear relationships between Orders, Customers, Products, Regions, and Date tables to ensure accurate aggregations.
 - Optimized the model for Power BI performance and simplified DAX calculations.
 
 ---
@@ -27,18 +31,18 @@ The dashboard covers sales performance, profitability, regional analysis, and KP
 
 **Key Insights:**
 - Provided a high-level snapshot of overall business performance using key metrics such as Total Sales, Total Profit, Orders, and Customers.
-- Enabled quick decision-making through consolidated KPIs in a single dashboard view.
+- Enabled quick decision-making through consolidated KPIs displayed in a single dashboard view.
 - Added interactive slicers (Year, Region, Category) to allow flexible business analysis.
 
 ---
 
-## 3️⃣ Sales Profit Trend
+## 3️⃣ Sales & Profit Trend
 ![Sales Profit Trend](screenshots/03_Sales_Profit_Trend.png)
 
 **Key Insights:**
 - Analyzed year-wise sales and profit trends to identify growth patterns and performance consistency.
 - Compared Actual Sales vs Target Sales to highlight gaps and achievement levels.
-- Identified periods of strong performance and areas needing improvement.
+- Identified periods of strong performance as well as areas requiring improvement.
 
 ---
 
@@ -47,8 +51,8 @@ The dashboard covers sales performance, profitability, regional analysis, and KP
 
 **Key Insights:**
 - Identified top-performing regions and states based on total sales contribution.
-- Highlighted geographical sales concentration to support regional strategy planning.
-- Enabled drill-down analysis to compare regional performance effectively.
+- Highlighted geographical sales concentration to support regional strategy and market planning.
+- Enabled drill-down analysis for effective regional performance comparison.
 
 ---
 
@@ -62,5 +66,18 @@ The dashboard covers sales performance, profitability, regional analysis, and KP
 
 ---
 
-## Conclusion
-This project demonstrates end-to-end BI development including data modeling, KPI design, and dashboard storytelling using Power BI.
+## 📂 Repository Structure
+```text
+powerbi-enterprise-sales-analytics/
+│
+├── README.md
+├── screenshots/
+│   ├── 01_Data_Model.png
+│   ├── 02_Executive_Overview.png
+│   ├── 03_Sales_Profit_Trend.png
+│   ├── 04_Regional_Sales_Analysis.png
+│   └── 05_KPI_Performance_Summary.png
+│
+└── data/
+    ├── Global_Superstore.pbix
+    └── Report_Analysis_Template.xlsx
